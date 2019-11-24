@@ -6,7 +6,6 @@ xv
 gsd
 
 dvgd
-
 cf
   </div>
 }
