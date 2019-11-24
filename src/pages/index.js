@@ -5,7 +5,7 @@ export default function Home() {
 xv
 gsdg
 
-dvgdcc
+dvgdc
 dfs
 cfd
   </div>
