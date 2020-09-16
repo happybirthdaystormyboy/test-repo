@@ -1,2 +1,2 @@
 g
-git commit --date="2 day ago" -m "Your commit message" 
+git commit --date="5 day ago" -m "Your commit message" 
